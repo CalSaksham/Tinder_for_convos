@@ -1,2 +1,2 @@
 # Tinder_for_convos
-# Algorithms, base Platform for comms (backend+frontend)
+To do: Algorithms, base Platform for comms (backend+frontend)
